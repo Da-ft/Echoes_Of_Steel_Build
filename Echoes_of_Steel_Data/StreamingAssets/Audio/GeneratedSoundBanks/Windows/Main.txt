@@ -1,0 +1,45 @@
+Event	ID	Name			Wwise Object Path	Notes
+	266943	Play_Robo_interact_1			\Default Work Unit\Play_Robo_interact_1	
+	56145953	Play_Level1_Music			\Default Work Unit\Play_Level1_Music	
+	75060344	Stop_Level2_Music			\Default Work Unit\Stop_Level2_Music	
+	75068022	Play_Mountain_Lake_Ambience			\Default Work Unit\Play_Mountain_Lake_Ambience	
+	78199759	Play_Robo_Step			\Default Work Unit\Play_Robo_Step	
+	166541076	Play_MainMenu_Music			\Default Work Unit\Play_MainMenu_Music	
+	234777711	Stop_Level1_Music			\Default Work Unit\Stop_Level1_Music	
+	433257765	Play_SciFiAmbienceHolos			\Default Work Unit\Play_SciFiAmbienceHolos	
+	439239566	Stop_Battle_Music			\Default Work Unit\Stop_Battle_Music	
+	674000177	Play_Robo_Shield_2			\Default Work Unit\Play_Robo_Shield_2	
+	995822497	Play_Robo_hover_1			\Default Work Unit\Play_Robo_hover_1	
+	1150312521	Play_Jungle_night_ambience			\Default Work Unit\Play_Jungle_night_ambience	
+	1222686019	Play_SciFiAmbience_6108_20			\Default Work Unit\Play_SciFiAmbience_6108_20	
+	1723864227	Play_ForestDay_6063_81			\Default Work Unit\Play_ForestDay_6063_81	
+	2158818887	Play_Level3_Music			\Default Work Unit\Play_Level3_Music	
+	2633907476	Play_Ui_Sound			\Default Work Unit\Play_Ui_Sound	
+	2769025533	Play_Weapon_Shot_1			\Default Work Unit\Play_Weapon_Shot_1	
+	2862166672	Play_Battle_Music			\Default Work Unit\Play_Battle_Music	
+	3042334185	Stop_Level3_Music			\Default Work Unit\Stop_Level3_Music	
+	3066437565	Play_Robo_Jump_1			\Default Work Unit\Play_Robo_Jump_1	
+	3851839106	Play_SciFi_6056_54_1			\Default Work Unit\Play_SciFi_6056_54_1	
+	4062428950	Stop_MainMenu_Music			\Default Work Unit\Stop_MainMenu_Music	
+	4138518942	Play_Level2_Music			\Default Work Unit\Play_Level2_Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	21225247	Weapon Shot 1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Weapon Shot 1_058DD794.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Weapon Shot 1		175996
+	105913959	Ui_Sound	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Civilization V - Clicking On Anything In The Menu Sound_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ui_Sound		82016
+	114034588	SciFiAmbienceHolos	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\SciFiAmbienceHolos_FBC78EF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\SciFiAmbienceHolos		11620448
+	121801137	Robo Shield 2	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Robo Shield 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Robo Shield 2		141920
+	137266418	Jungle_night_ambience	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\[HQ] Jungle at night ambience_409AFF9B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Jungle_night_ambience		21180560
+	142658261	Robo interact 1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Robo interact 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Robo interact 1		353376
+	204033397	SciFi 6056_54_1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\SciFi 6056_54_1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\SciFi 6056_54_1		11235424
+	241202354	Robo hover 1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Robo hover 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Robo hover 1		11337824
+	370820111	Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 (2020)	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 (2020)_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MainMenu_Music\Chris Christodoulou - The Rain Formerly Known as Purple\Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 (2020)		91897620
+	461448361	Mountain Lake Ambience	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Local Mountain Lake Ambience, Pt. 15_38A02560.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Mountain Lake Ambience		31551632
+	487936446	Horizon Zero Dawn OST - Battle Music 1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Horizon Zero Dawn OST - Battle Music 1_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\Battle_Music\Horizon Zero Dawn OST - Battle Music 1\Horizon Zero Dawn OST - Battle Music 1		63382772
+	673006884	Climbing the Ginso Tree	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Climbing the Ginso Tree_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\Level3_Music\Climbing the Ginso Tree\Climbing the Ginso Tree		65219272
+	696059350	ForestDay 6063_81	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\ForestDay 6063_81_1F65778F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\ForestDay 6063_81		23105680
+	797019806	Robo Step	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Robo Step Bounce_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Robo Step		380000
+	983962986	SciFiAmbience 6108_20	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\SciFiAmbience 6108_20_5CF53B2E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\SciFiAmbience 6108_20		11657360
+	1012104817	Tidecaller - Music - League of Legends	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Tidecaller - Music - League of Legends_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\Level1_Music\Tidecaller - Music - League of Legends\Tidecaller - Music - League of Legends		47547136
+	1031459669	Robo Jump 1	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Robo Jump 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robo movement\Robo Jump 1		245856
+	1034539131	Fi's Farewell Theme - The Legend of Zelda - Skyward Sword	D:\Uni\Repositorys\Echoes_Of_Steel_Zeitgeist\Echoes_of_Steel_Zeitgeist\Echoes_of_Steel_WwiseProject\.cache\Windows\SFX\Fi's Farewell Theme - The Legend of Zelda - Skyward Sword_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\Level2_Music\Fi's Farewell Theme - The Legend of Zelda - Skyward Sword\Fi's Farewell Theme - The Legend of Zelda - Skyward Sword		28628632
+

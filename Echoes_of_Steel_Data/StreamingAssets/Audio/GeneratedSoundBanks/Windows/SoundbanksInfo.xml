@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{5BE88C94-E90E-6525-6AB0-76F6F2DD0A7D}">
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="21225247" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Weapon Shot 1.wav</ShortName>
+					<CachePath>SFX/Weapon Shot 1_058DD794.wem</CachePath>
+				</File>
+				<File Id="105913959" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Civilization V - Clicking On Anything In The Menu Sound.wav</ShortName>
+					<CachePath>SFX/Civilization V - Clicking On Anything In The Menu Sound_818F3B66.wem</CachePath>
+				</File>
+				<File Id="114034588" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SciFiAmbienceHolos.wav</ShortName>
+					<CachePath>SFX/SciFiAmbienceHolos_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="121801137" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Robo Shield 2.wav</ShortName>
+					<CachePath>SFX/Robo Shield 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="137266418" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>[HQ] Jungle at night ambience.wav</ShortName>
+					<CachePath>SFX/[HQ] Jungle at night ambience_409AFF9B.wem</CachePath>
+				</File>
+				<File Id="142658261" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Robo interact 1.wav</ShortName>
+					<CachePath>SFX/Robo interact 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="204033397" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SciFi 6056_54_1.wav</ShortName>
+					<CachePath>SFX/SciFi 6056_54_1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="241202354" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Robo hover 1.wav</ShortName>
+					<CachePath>SFX/Robo hover 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="370820111" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 (2020).wav</ShortName>
+					<CachePath>SFX/Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 (2020)_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="461448361" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Local Mountain Lake Ambience, Pt. 15.wav</ShortName>
+					<CachePath>SFX/Local Mountain Lake Ambience, Pt. 15_38A02560.wem</CachePath>
+				</File>
+				<File Id="487936446" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Horizon Zero Dawn OST - Battle Music 1.wav</ShortName>
+					<CachePath>SFX/Horizon Zero Dawn OST - Battle Music 1_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="673006884" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Climbing the Ginso Tree.wav</ShortName>
+					<CachePath>SFX/Climbing the Ginso Tree_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="696059350" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>ForestDay 6063_81.wav</ShortName>
+					<CachePath>SFX/ForestDay 6063_81_1F65778F.wem</CachePath>
+				</File>
+				<File Id="797019806" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Robo Step Bounce.wav</ShortName>
+					<CachePath>SFX/Robo Step Bounce_818F3B66.wem</CachePath>
+				</File>
+				<File Id="983962986" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SciFiAmbience 6108_20.wav</ShortName>
+					<CachePath>SFX/SciFiAmbience 6108_20_5CF53B2E.wem</CachePath>
+				</File>
+				<File Id="1012104817" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Tidecaller - Music - League of Legends.wav</ShortName>
+					<CachePath>SFX/Tidecaller - Music - League of Legends_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="1031459669" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Robo Jump 1.wav</ShortName>
+					<CachePath>SFX/Robo Jump 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1034539131" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fi's Farewell Theme - The Legend of Zelda - Skyward Sword.wav</ShortName>
+					<CachePath>SFX/Fi's Farewell Theme - The Legend of Zelda - Skyward Sword_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2862166672" Name="Play_Battle_Music" DurationType="OneShot" DurationMin="330.1181" DurationMax="330.1181">
+					<MediaRefs>
+						<MediaRef Id="487936446"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1723864227" Name="Play_ForestDay_6063_81" MaxAttenuation="200" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="696059350"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1150312521" Name="Play_Jungle_night_ambience" MaxAttenuation="200" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="137266418"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="56145953" Name="Play_Level1_Music" DurationType="OneShot" DurationMin="247.64082" DurationMax="247.64082">
+					<MediaRefs>
+						<MediaRef Id="1012104817"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4138518942" Name="Play_Level2_Music" DurationType="OneShot" DurationMin="149.10695" DurationMax="149.10695">
+					<MediaRefs>
+						<MediaRef Id="1034539131"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2158818887" Name="Play_Level3_Music" DurationType="OneShot" DurationMin="339.68323" DurationMax="339.68323">
+					<MediaRefs>
+						<MediaRef Id="673006884"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="166541076" Name="Play_MainMenu_Music" DurationType="OneShot" DurationMin="478.63293" DurationMax="478.63293">
+					<MediaRefs>
+						<MediaRef Id="370820111"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="75068022" Name="Play_Mountain_Lake_Ambience" MaxAttenuation="200" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="461448361"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="995822497" Name="Play_Robo_hover_1" DurationType="OneShot" DurationMin="59.050667" DurationMax="59.050667">
+					<MediaRefs>
+						<MediaRef Id="241202354"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="266943" Name="Play_Robo_interact_1" DurationType="OneShot" DurationMin="1.7876188" DurationMax="1.8939161">
+					<MediaRefs>
+						<MediaRef Id="142658261"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3066437565" Name="Play_Robo_Jump_1" DurationType="OneShot" DurationMin="1.208159" DurationMax="1.3561128">
+					<MediaRefs>
+						<MediaRef Id="1031459669"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="674000177" Name="Play_Robo_Shield_2" DurationType="OneShot" DurationMin="0.6972084" DurationMax="0.73866665">
+					<MediaRefs>
+						<MediaRef Id="121801137"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="78199759" Name="Play_Robo_Step" DurationType="OneShot" DurationMin="1.9223379" DurationMax="2.0366461">
+					<MediaRefs>
+						<MediaRef Id="797019806"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3851839106" Name="Play_SciFi_6056_54_1" MaxAttenuation="75" DurationType="OneShot" DurationMin="58.517334" DurationMax="58.517334">
+					<MediaRefs>
+						<MediaRef Id="204033397"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1222686019" Name="Play_SciFiAmbience_6108_20" MaxAttenuation="75" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="983962986"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="433257765" Name="Play_SciFiAmbienceHolos" MaxAttenuation="75" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="114034588"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2633907476" Name="Play_Ui_Sound" DurationType="OneShot" DurationMin="0.4643991" DurationMax="0.4643991">
+					<MediaRefs>
+						<MediaRef Id="105913959"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2769025533" Name="Play_Weapon_Shot_1" DurationType="OneShot" DurationMin="0.81618947" DurationMax="1.0283344">
+					<MediaRefs>
+						<MediaRef Id="21225247"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="439239566" Name="Stop_Battle_Music" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="234777711" Name="Stop_Level1_Music" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="75060344" Name="Stop_Level2_Music" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="3042334185" Name="Stop_Level3_Music" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="4062428950" Name="Stop_MainMenu_Music" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B773C17C-01CD-569A-6969-B89FEA4EC132}</FileHash>
+</SoundBanksInfo>
